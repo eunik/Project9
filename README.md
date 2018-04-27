@@ -10,7 +10,7 @@ Time spent: **8** hours spent in total
 I only needed to deploy 1 honeypot, because it was already getting a lot of attacks.  
   
 ### Honeypot Created
-<img src="PNG/honeypot.png" width="800">  
+<img src="PNG/honeypot.PNG" width="800">  
   
     
 2. Any issues you encountered?  
@@ -19,7 +19,7 @@ Unusually enough I had a problem when I ran the:
 ```
 ./install.sh
 ```
-from https://github.com/RedolentSun/mhn.git.
+from https://github.com/RedolentSun/mhn.git.  
 What made this so unusual was that this was done on a remote server, so it should have reproduced the same result for all servers,
 but it gave me errors regarding to mangoDB. However, I fixed it after running it three times.  
   
@@ -32,12 +32,12 @@ It should have been further clarified that the setup sent to us was a MHN setup 
 There were several attacks while running this honeypot. It was notable that it mostly came from the server: 35.193.67.167
   
 ### Attacks
-<img src="PNG/attacks.png" width="800">  
+<img src="PNG/attacks.PNG" width="800">  
   
 We were also able to honeypots that intercepted attacks .
   
 ### Attack Report
-<img src="PNG/attacks.png" width="800">  
+<img src="PNG/attacks.PNG" width="800">  
   
 As for the malwares, no malwares were found.  
   
